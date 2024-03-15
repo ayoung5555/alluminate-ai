@@ -36,10 +36,13 @@ Once get-video returns with the list of video ids, call get-timestamps on the cu
 
 
 ## Figma Prototype
+<img width="1728" alt="Figma Prototype" src="https://github.com/ayoung5555/alluminate-ai/assets/40146280/18436970-aa4d-4f9c-8960-d724ae86715d">
 
 
 
 ## Browser Prototpe without APIs
 
+
+https://github.com/ayoung5555/alluminate-ai/assets/40146280/69a3d0ba-ef45-4568-ac67-103d615946ca
 
 
